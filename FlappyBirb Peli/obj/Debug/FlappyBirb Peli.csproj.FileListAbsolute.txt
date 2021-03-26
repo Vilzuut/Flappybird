@@ -1,0 +1,18 @@
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\FlappyBirb Peli.csprojAssemblyReference.cache
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\MainWindow.g.cs
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\App.g.cs
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\FlappyBirb Peli_MarkupCompile.cache
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\FlappyBirb Peli_MarkupCompile.lref
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\bin\Debug\FlappyBirb Peli.exe.config
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\bin\Debug\FlappyBirb Peli.exe
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\bin\Debug\FlappyBirb Peli.pdb
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\MainWindow.baml
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\FlappyBirb Peli.g.resources
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\FlappyBirb_Peli.Properties.Resources.resources
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\FlappyBirb Peli.csproj.GenerateResource.cache
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\FlappyBirb Peli.csproj.CoreCompileInputs.cache
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\FlappyBirb Peli.exe
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\FlappyBirb Peli.pdb
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\bin\Debug\MySql.Data.DLL
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\FlappyBirb_Peli.Kirjautuminen.resources
+C:\Users\riitt\source\repos\FlappyBirb Peli\FlappyBirb Peli\obj\Debug\FlappyBirb Peli.csproj.CopyComplete
